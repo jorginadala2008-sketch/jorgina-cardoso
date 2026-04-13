@@ -1,9 +1,13 @@
 .importante{
-    color: blue;
+    color: rgba(154, 26, 26, 0.498);
 
 }
 
-
 .imagens{
-    width: 60%;
+    width: 60%
+}
+
+body{
+    background-color: rgb(172, 65, 108);
+    color: white;
 }
