@@ -22,7 +22,7 @@ body{
 a{
     margin: 20px;
     padding: 20px;
-    background-color: rgba(223, 24, 80, 0.606);
-    color: brown;
+    background-color: rgba(100, 95, 96, 0.606);
+    color: rgb(95, 89, 89);
     border-radius: 20px;
 }
