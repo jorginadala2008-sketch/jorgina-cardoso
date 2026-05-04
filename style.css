@@ -21,4 +21,8 @@ body{
 
 a{
     margin: 20px;
+    padding: 20px;
+    background-color: rgba(223, 24, 80, 0.606);
+    color: brown;
+    border-radius: 20px;
 }
