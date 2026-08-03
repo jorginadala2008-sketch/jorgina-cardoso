@@ -1,0 +1,13 @@
+body {
+    background-color: darkolivegreen;
+    font-family: "OsWald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+    
+header{
+    display: grid;
+    grid-template-columns: ;
+}
