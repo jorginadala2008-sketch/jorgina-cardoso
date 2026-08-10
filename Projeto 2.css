@@ -60,6 +60,9 @@ header{
     grid-template-columns: 20% 20% 20% 20% 20%;
 } 
 
+.centro{
+    text-align: center;
+}
 
 .dourado{
     color: #d6b865;
