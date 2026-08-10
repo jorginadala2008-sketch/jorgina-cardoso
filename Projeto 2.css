@@ -9,7 +9,7 @@ body {
     
 header{
     display: grid;
-    grid-template-columns: 25% 65%;
+    grid-template-columns: 35% 65%;
     
 }
 
