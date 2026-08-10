@@ -14,5 +14,10 @@ header{
 }
 
 .logo{
-    width: 100%;
+    width: 65%;
 }
+
+.menu{
+     display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+} 
