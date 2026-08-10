@@ -54,3 +54,8 @@ header{
      display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 } 
+
+
+.dourado{
+    color: #d6b865;
+}
