@@ -12,3 +12,7 @@ header{
     grid-template-columns: 35% 65%;
     
 }
+
+.logo{
+    width: 100%;
+}
