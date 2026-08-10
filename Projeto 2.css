@@ -29,26 +29,31 @@ header{
 .energia{
     display: grid;
     grid-template-columns: 50% 50%;
+        justify-items: center;
 }
 
 .água{
     display: grid;
     grid-template-columns: 50% 50%;
+        justify-items: center;
 }
 
 .sol{
     display: grid;
     grid-template-columns: 50% 50%;
+        justify-items: center;
 }
 
 .reciclar{
     display: grid;
     grid-template-columns: 50% 50%;
+        justify-items: center;
 }
 
 .reciclagem{
     display: grid;
     grid-template-columns: 50% 50%;
+        justify-items: center;
 }
 .tec{
     display: grid;
