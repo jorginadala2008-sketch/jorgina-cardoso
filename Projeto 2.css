@@ -14,13 +14,9 @@ header{
 }
 
 .logo{
-    width: 65%;
+    display: grid;
+    grid-template-columns: 35% 65%;
 }
-
-.menu{
-     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-} 
 
 .apre{
     display: grid;
@@ -32,12 +28,27 @@ header{
     grid-template-columns: 50% 50%;
 }
 
-.luz{
+.água{
     display: grid;
     grid-template-columns: 50% 50%;
 }
 
-.tec{
+.sol{
     display: grid;
     grid-template-columns: 50% 50%;
 }
+
+.reciclar{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.reciclagem{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.menu{
+     display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+} 
