@@ -79,3 +79,10 @@ header{
 .dourado{
     color: #d6b865;
 }
+
+
+.fundo-verde{
+    background-color: #3a5a40;
+    margin: 20px;
+    padding: 12px;
+}
