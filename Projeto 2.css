@@ -103,6 +103,9 @@ header{
     padding: 12px;
     border-radius: 12px;
     font-weight: normal;
+    width: 351px;
+    height: 279px;
+    text-align: center;
 }
 
 footer{
@@ -112,4 +115,8 @@ footer{
 
 .alto{
     text-transform: lowercase;
+}
+
+.imagem{
+    width: 80%;
 }
