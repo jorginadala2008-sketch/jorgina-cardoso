@@ -102,9 +102,14 @@ header{
     margin: 20px;
     padding: 12px;
     border-radius: 12px;
+    font-weight: normal;
 }
 
 footer{
     text-transform: uppercase;
 
+}
+
+.alto{
+    text-transform: lowercase;
 }
