@@ -38,30 +38,44 @@ header{
     justify-items: center;
     align-items: center;
     margin: 0;
+    text-transform: uppercase;
 }
 
 .água{
     display: grid;
     grid-template-columns: 50% 50%;
         justify-items: center;
+    text-transform: uppercase;
+
 }
 
 .sol{
     display: grid;
     grid-template-columns: 50% 50%;
         justify-items: center;
+    text-transform: uppercase;
+
 }
 
 .reciclar{
     display: grid;
     grid-template-columns: 50% 50%;
         justify-items: center;
+    text-transform: uppercase;
+
 }
 
 .reciclagem{
     display: grid;
     grid-template-columns: 50% 50%;
         justify-items: center;
+    text-transform: uppercase;
+
+}
+
+.lados{
+    text-transform: uppercase;
+
 }
 .tec{
     display: grid;
@@ -88,4 +102,9 @@ header{
     margin: 20px;
     padding: 12px;
     border-radius: 12px;
+}
+
+footer{
+    text-transform: uppercase;
+
 }
