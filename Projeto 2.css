@@ -24,6 +24,9 @@ header{
 .apre{
     display: grid;
     grid-template-columns: 50% 50%;
+    background-image: url(AZ6C63Kn_LGY_ttbvCDzaQ-AZ6C63Kn3CeTNYujSh_NHg.jpg);
+    background-repeat: no;
+    background-size: 100%;
 }
 
 .energia{
