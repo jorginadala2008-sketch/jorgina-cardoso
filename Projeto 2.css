@@ -25,6 +25,8 @@ header{
 .apre{
     display: grid;
     grid-template-columns: 50% 50%;
+        justify-items: center;
+    align-items: center;
 }
 
 .energia{
