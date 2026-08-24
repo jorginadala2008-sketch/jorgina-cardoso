@@ -22,7 +22,12 @@ header{
 }
 
 .apre{
- display: grid;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.energia{
+     display: grid;
     grid-template-columns: 50% 50%;
     background-image: url(AZ6C63Kn_LGY_ttbvCDzaQ-AZ6C63Kn3CeTNYujSh_NHg.jpg);
     background-repeat: no-repeat;
@@ -31,12 +36,6 @@ header{
     width: 100vw;
     justify-items: center;
     align-items: center;
-}
-
-.energia{
-    display: grid;
-    grid-template-columns: 50% 50%;
-        justify-items: center;
 }
 
 .água{
